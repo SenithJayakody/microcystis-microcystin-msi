@@ -1,10 +1,10 @@
 # Transmission-Mode Multispectral Imaging for Estimation of *Microcystis* spp. Cell Concentration and ELISA-Equivalent Microcystin Concentration in Water
-[![Paper](https://img.shields.io/badge/Paper-Under%20Review-B31B1B.svg)](#citation)
+[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2611.16859-B31B1B.svg)](https://arxiv.org/abs/2611.16859)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Tested-F7931E?logo=scikitlearn)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> **Status:** Manuscript submitted for journal review.
+> **Status:** [Preprint available on arXiv](https://arxiv.org/abs/2611.16859). Manuscript submitted for journal review.
 
 ## Overview
 Harmful algal blooms dominated by *Microcystis* spp. threaten freshwater systems through proliferation and microcystin (MC) production. Conventional measurement of cyanobacterial abundance and MC concentration usually needs laboratory processing, specialized instruments, or assay reagents. MC concentration also cannot always be inferred from cell abundance.
@@ -130,12 +130,24 @@ The datasets generated and analysed in this study are available from the corresp
 
 ## Citation
 If you find our work useful in your research, please cite:
-```
-@article{jayakody2026msi,
-      title={Transmission-Mode Multispectral Imaging for Estimation of Microcystis spp. Cell Concentration and ELISA-Equivalent Microcystin Concentration in Water},
-      author={J.A.S.T. Jayakody and G. Thilakarathne and G.A.S.L. Ranasinghe and M.C.L. De Silva and K.A.D.S.A. Perera and G.M.R.I. Godaliyadda and H.M.V.R. Herath and M.P.B. Ekanayake and A.D.S.N.P. Athukorala and H.A.D.R.P. Sirimanna},
-      note={Manuscript under review},
-      year={2026}
+```bibtex
+@misc{jayakody2026msi,
+  title        = {Transmission-Mode Multispectral Imaging for Estimation of {Microcystis} spp. Cell Concentration and {ELISA}-Equivalent Microcystin Concentration in Water},
+  author       = {Jayakody, J. A. S. T. and
+                  Thilakarathne, G. and
+                  Ranasinghe, G. A. S. L. and
+                  De Silva, M. C. L. and
+                  Perera, K. A. D. S. A. and
+                  Godaliyadda, G. M. R. I. and
+                  Herath, H. M. V. R. and
+                  Ekanayake, M. P. B. and
+                  Athukorala, A. D. S. N. P. and
+                  Sirimanna, H. A. D. R. P.},
+  year         = {2026},
+  eprint       = {2611.16859},
+  archivePrefix = {arXiv},
+  primaryClass = {eess.IV},
+  url          = {https://arxiv.org/abs/2611.16859}
 }
 ```
 
